@@ -8,3 +8,9 @@ the game. By utilising Scrum's adaptability and collaboration principles, we aim
 performance and navigate the complexities of introducing a 3D perspective. This project contributes
 to the evolution of mobile gaming by efficiently overcoming challenges and fostering renewed
 engagement with the iconic Flappy Bird concept. 
+
+**OUTPUT**
+
+![image](https://github.com/user-attachments/assets/90a0416f-8114-479d-9834-1fd35391be10)
+![image](https://github.com/user-attachments/assets/19b455f7-acc3-4299-9a52-6e9993a9ee10)
+![image](https://github.com/user-attachments/assets/63ad09cb-73f0-4bd9-8879-8a4bb2137b4a)
